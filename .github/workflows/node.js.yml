@@ -26,4 +26,4 @@ jobs:
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
         with:
-          service: "feisty-celebration"
+          service: "Caracola"
